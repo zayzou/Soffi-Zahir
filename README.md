@@ -1,9 +1,13 @@
-<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&lines=Hi+%2Cmy+name+is+Zahir+and+i+am+a+software+developer)](https://git.io/typing-svg)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Soffi-Zahir&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soffi-Zahir&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soffi-Zahir&show_icons=true&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&lines=Hi+%2Cmy+name+is+Zahir+and+;+i+am+a+software+developer)](https://git.io/typing-svg)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Soffi-Zahir)](https://git.io/streak-stats)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Soffi-Zahir&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soffi-Zahir&show_icons=true&theme=radical)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soffi-Zahir&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
+
+<!--
 **Soffi-Zahir/Soffi-Zahir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
